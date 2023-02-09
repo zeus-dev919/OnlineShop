@@ -1,5 +1,7 @@
 # 🛒OnlineShop
 
+<img src="https://previews.123rf.com/images/limbi007/limbi0071304/limbi007130400225/19333878-shopping-bags-with-white-text-online-shop-white-background-.jpg" />
+
 ## 🏛Frameworks
   ### Front-End
     Vue3
