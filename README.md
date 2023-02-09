@@ -33,11 +33,8 @@
      
 4. Products List Page
  Displays the list of products from Online and Offline pages
- - List of Products
+ - List of Products (image , title , url)
    If Clicks, move to Detail page
-   ▪ product's image
-   ▪ product's title
-   ▪ product's price
  - Pagination
  - Search Title in Top-Center layer
  - Download Btn in Top-Right layer
