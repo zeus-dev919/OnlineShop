@@ -29,10 +29,10 @@
 
 3. OffLine Page
  - SelectBar "search_key_word - brand"
-   Default option is an "All products" option which is displayed all history products. 
+   *Default option is an "All products" option which is displayed all history products.*
      
 4. Products List Page
- Displays the list of products from Online and Offline pages
+   *Displays the list of products from Online and Offline pages*
  - List of Products (image , title , url)
    If Clicks, move to Detail page
  - Pagination
