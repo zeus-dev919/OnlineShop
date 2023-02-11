@@ -8,13 +8,13 @@ export default createRouter({
       path: '/',
       component: Home,
     },
-    // {
-    //   path: '/about',
-    //   component: () => import('@/views/About.vue'),
-    // },
-    // {
-    //   path: '/contact',
-    //   component: () => import('@/views/Contact.vue'),
-    // },
+    {
+      path: '/online',
+      component: () => import('./views/Onlinepage.vue'),
+    },
+    {
+      path: '/offline',
+      component: () => import('./views/Onlinepage.vue'),
+    },
   ],
 })

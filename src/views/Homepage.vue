@@ -1,10 +1,18 @@
 <template>
   <div>
-    HomePage
-    <button></button>
+    <button @click="toOnline">Online</button>
+    <button @click="toOffline">Offline</button>
   </div>
 </template>
 
 <script setup lang="ts">
-const data = "" 
+import router from '../router';
+
+  const toOnline = () => {
+    router.push('/online')
+  }
+
+  const toOffline = () => {
+    router.push('/offline')
+  }
 </script>
